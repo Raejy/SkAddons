@@ -1,0 +1,16 @@
+{
+  "defaults": {
+    "version_types": ["release"],
+    "asset_pattern": "*.jar"
+  },
+  "addons": {
+    "Skript": { "source": "modrinth", "project": "skript", "repository": "SkriptLang/Skript" },
+    "SkBee": { "source": "modrinth", "project": "skbee", "repository": "SkBee-Development/SkBee" },
+    "skript-particle": { "source": "modrinth", "project": "skript-particle", "repository": "AFK-Sleeper/skript-particle" },
+    "Lusk": { "source": "modrinth", "project": "lusk", "repository": "Lusk/Lusk" },
+    "skript-yaml": { "source": "modrinth", "project": "skyaml", "repository": "Sashie/skript-yaml" },
+    "skript-placeholders": { "source": "modrinth", "project": "sk-placeholders", "repository": "APickledWalrus/skript-placeholders" },
+    "skript-reflect": { "source": "modrinth", "project": "sk-reflect", "repository": "SkriptLang/skript-reflect" },
+    "skJson": { "source": "github", "repository": "cooffeeRequired/skJson" }
+  }
+}
